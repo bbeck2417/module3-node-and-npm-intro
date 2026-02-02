@@ -11,8 +11,5 @@
   },
   "dependencies": {
     "cowsay": "^1.6.0"
-  },
-  "engines": {
-  "node": "18.x"  // or "20.x", depending on your needs
-}
+  }
 }
